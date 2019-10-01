@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import Posts from './components/Posts';
 
 export default function App() {
   return (
     <div>
-      <h1>React Redux Sample</h1>
+      <Posts />
     </div>
   )
 }
