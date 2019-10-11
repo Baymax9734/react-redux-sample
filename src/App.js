@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; //Baymax9734
 import { Provider } from 'react-redux';
 
 import Posts from './components/Posts';
